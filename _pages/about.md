@@ -8,10 +8,10 @@ profile:
   align: right
   image: yaochao.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>1001 Information Building</p>
-    <p>No. 30 Xueyuan Road, Haidian District</p>
-    <p>Beijing, China, 100083</p>
+  # more_info: >
+  #   <p>1001 Information Building</p>
+  #   <p>No. 30 Xueyuan Road, Haidian District</p>
+  #   <p>Beijing, China, 100083</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
