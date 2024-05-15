@@ -126,10 +126,10 @@ categories: sample-posts
 摘要：本文提出一个transformer-cnn并行结构，复杂度可控。并且应用了一种参数有效的SwinTrans的通道熵编码结构。
 <div class="row mt-3">
     <div class="row-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/refimg/Trans-CNN.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Trans-CNN.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="row-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/refimg/Trans-CNN2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/Trans-CNN2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -140,6 +140,6 @@ categories: sample-posts
 摘要：神经图像压缩的设计性能提升主要来源于熵模型如何能很好匹配隐向量的真实分布。本文提出了一种特征层频率解藕的方法实现松弛的标量量化，以达到高熵特征以更低码率表示。
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/refimg/frequencydis.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/frequencydis.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
