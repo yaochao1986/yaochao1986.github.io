@@ -18,7 +18,7 @@ Video frame interpolation (VFI) aims to generate predictive frames by motion-war
 ## Pipeline
 <div class="row" align=center>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/JNMRchat.jpg" title="JNMR" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/JNMRchat.jpg" title="JNMR" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -35,13 +35,13 @@ Video frame interpolation (VFI) aims to generate predictive frames by motion-war
 ## Results
 <div class="row" align=center>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/JNMRTable.jpg" title="JNMRTable" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/JNMRTable.jpg" title="JNMRTable" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row" align=center>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/JNMRfig.jpg" title="JNMRfig" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/JNMRfig.jpg" title="JNMRfig" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

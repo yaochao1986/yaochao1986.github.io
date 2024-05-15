@@ -103,7 +103,7 @@ categories: sample-posts
 摘要：本文介绍了一种设计分块、传输、重建和聚合图像隐特征表示的框架。 为实现人机视觉混合，PRTA设计了一个超参网络结构选择隐特征的子集用于机器视觉，未选择的部分用于人眼视觉的重建。
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/refimg/ICMH-Net.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/ICMH-Net.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 

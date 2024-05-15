@@ -18,7 +18,7 @@ Video super-resolution (VSR) is a task that aims to reconstruct high-resolution 
 ## Pipeline
 <div class="row" align=center>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/TCNet.jpg" title="TCNet" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/TCNet.jpg" title="TCNet" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -35,13 +35,13 @@ Video super-resolution (VSR) is a task that aims to reconstruct high-resolution 
 ## Results
 <div class="row" align=center>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/TCNetTable.jpg" title="TCNetTable" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/TCNetTable.jpg" title="TCNetTable" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row" align=center>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/TCNetPic.jpg" title="TCNetPic" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/TCNetPic.jpg" title="TCNetPic" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
