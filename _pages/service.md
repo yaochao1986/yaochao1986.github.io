@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /service/
 title: service
 description: Service information.
 nav: true
