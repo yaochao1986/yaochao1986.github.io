@@ -6,9 +6,6 @@ description: Service information.
 nav: true
 nav_order: 6
 ---
-## Academic service
-
-### Journal Editor
 
 ### Conference organization
 * Technical Committee of International Conference on Haptics and Virtual Reality, ICHVR 2024
