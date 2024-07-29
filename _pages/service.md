@@ -6,9 +6,17 @@ description: Service information.
 nav: true
 nav_order: 6
 ---
+## Academic service
 
-### Program Committee of Reviewer
+### Journal Editor
 
+### Conference organization
+* Technical Committee of International Conference on Haptics and Virtual Reality, ICHVR 2024
+* General Chair of International Conference on Communications, Computing, Cybersecurity, and Informatics, CCCI 2024
+* Program Chair of International Conference on Communications, Computing, Cybersecurity, and Informatics, CCCI 2021
+* CV session chair of IJCAI2024 
+
+### Conference PC member / reviewer
 * Computer Vision and Pattern Recognition (CVPR), 2022-2024
 * International Conference on Computer Vision (ICCV), 2021-2023
 * European Conference on Computer Vision (ECCV), 2020-2022
@@ -30,10 +38,12 @@ nav_order: 6
 ## Membership
 
 * Committee of Human Computer Interaction, CCF（中国计算机学会）
+* Committee of Multimedia, CCF（中国人工智能学会）
+* Committee of Distributed Computing & Systems, CCF（中国计算机学会）
 * Committee of Human Computer Interaction, CSIG（中国图象图形学学会）
+* Committee of Multimedia, CSIG（中国图象图形学学会）
 * Committee of Intelligent Healthcare, CAAI（中国人工智能学会）
-* Program Chair of IEEE International Conference on Communications, Computing, Cybersecurity, and Informatics, CCCI2021
-* Technical Committee of International Conference on Haptics and Virtual Reality, ICHVR 2024
+* Committee of Youth Working, CAAI（中国人工智能学会）
 
 ## Hornors
 
