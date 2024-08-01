@@ -35,7 +35,7 @@ nav_order: 6
 ## Membership
 
 * Committee of Human Computer Interaction, CCF（中国计算机学会）
-* Committee of Multimedia, CCF（中国人工智能学会）
+* Committee of Multimedia, CCF（中国计算机学会）
 * Committee of Distributed Computing & Systems, CCF（中国计算机学会）
 * Committee of Human Computer Interaction, CSIG（中国图象图形学学会）
 * Committee of Multimedia, CSIG（中国图象图形学学会）
