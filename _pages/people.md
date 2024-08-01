@@ -6,6 +6,8 @@ description: members of the lab or group
 nav: true
 nav_order: 7
 
+---
+
   <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" %}
@@ -20,4 +22,3 @@ nav_order: 7
       
   </div>
     
----
