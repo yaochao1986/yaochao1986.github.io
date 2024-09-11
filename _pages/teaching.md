@@ -14,7 +14,7 @@ nav_order: 7
 * 《Human Computer Interaction》(人机交互)
 * 《Deep Learning》(深度学习) - [Course Homepage](https://yaochao1986.github.io/projects/Course_DL/)
 
-### Invited Talks
+### Talks
 
 Coming Soon...
 
@@ -24,7 +24,10 @@ Coming Soon...
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/AAAI24Tang.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/AAAI24Yang.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
 </div>
 <div class="caption">
-    This is a demo of describing our <a href="https://yaochao1986.github.io/assets/pdf/AAAI2023-SemanticLens.pdf" class="link" target="_blank">Semantic-Lens VSR</a> work published in AAAI24.
+    This is two demos of describing our <a href="https://yaochao1986.github.io/assets/pdf/AAAI2023-SemanticLens.pdf" class="link" target="_blank">Semantic-Lens VSR</a> and <a href="https://yaochao1986.github.io/assets/pdf/AAAI2023-SpatialSensor.pdf" class="link" target="_blank">Spatial-Related Sensors</a> works published in AAAI24.
 </div>
