@@ -20,4 +20,11 @@ Coming Soon...
 
 ### Demos
 
-Coming Soon...
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/AAAI24Tang.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+    This is a demo of describing our <a href="https://yaochao1986.github.io/assets/pdf/AAAI2023-SemanticLens.pdf" class="link" target="_blank">Semantic-Lens VSR</a> work published in AAAI24.
+</div>
