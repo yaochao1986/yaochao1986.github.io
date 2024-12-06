@@ -72,6 +72,21 @@ CS231n是由计算机视觉领域第一个大规模视觉数据集ImageNet的发
     * [Non-local] Non-local Neural Networks [Arxiv](http://arxiv.org/abs/1711.07971)
     * [CCNet] CCNet: Criss-Cross Attention for Semantic Segmentation [Arxiv](http://arxiv.org/abs/1811.11721)
 
+You can also find the most cited deep learning papers from [here](https://github.com/terryum/awesome-deep-learning-papers)
+
+需要关注的一些顶刊顶会
+
+* CVPR - IEEE Conference on Computer Vision and Pattern Recognition
+* ICCV - International Conference on Computer Vision
+* ICML - International Conference on Machine Learning
+* ICLR - International Conference on Learning Representations
+* KDD - Knowledge Discovery and Data Mining
+* NeurIPS - Neural Information Processing Systems
+* IEEE TPAMI 
+* IJCV 
+* IEEE TIP 
+
+
 ### 其它教学参考资料
 * 《深度学习(PyTorch)》课程视频及ppt，纽约大学 Yann Lecun [链接](https://cds.nyu.edu/deep-learning/)
 * 旷世&北大《深度学习实践》[链接](https://www.bilibili.com/video/BV1E7411t7ay/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=945cf64d12eb8c35f4af718b31e3374d)
@@ -79,3 +94,4 @@ CS231n是由计算机视觉领域第一个大规模视觉数据集ImageNet的发
 * Deep Learning学习笔记 [链接](https://blog.csdn.net/zouxy09/category_1387932.html)
 * 深度学习博客 [链接](https://blog.csdn.net/hjimce/category_3163421.html)
 * 深度学习资源汇总 [链接](https://zhuanlan.zhihu.com/p/27180274)
+* Deep Learning Tutorial [链接](https://github.com/Mikoto10032/DeepLearning)
