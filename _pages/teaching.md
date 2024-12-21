@@ -11,15 +11,19 @@ nav_order: 7
 
 * 《Computer Systems: A Programmer's Perspective》(计算机系统基础) - [Course Homepage](https://yaochao1986.github.io/projects/Course_CS/)
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/computersystem.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+![](/assets/img/computersystem.png=600*600)
 
 * 《Python Programming》(Python程序设计)
+
+![](/assets/img/Python.webp=600*600)
+
 * 《Human Computer Interaction》(人机交互)
+
+![](/assets//img/HCI.png=600*600)
+
 * 《Deep Learning》(深度学习) - [Course Homepage](https://yaochao1986.github.io/projects/Course_DL/)
+
+![](/assets/img/DeepLearning.jpg=600*600)
 
 ### Talks
 
