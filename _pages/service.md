@@ -18,11 +18,12 @@ nav_order: 6
 * International Conference on Computer Vision (ICCV), 2021-2023
 * European Conference on Computer Vision (ECCV), 2020-2022
 * AAAI Conference on Artificial Intelligence (AAAI), 2022-2024
-* International Joint Conferences on Artificial Intelligence (IJCAI), 2021
+* International Joint Conferences on Artificial Intelligence (IJCAI), 2021，2025
 * ACM International Conference on Multimedia (ACM MM), 2021，2024
-* IEEE International Conference on Multimedia and Expo (ICME), 2021-2024
-* IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2022-2024
+* IEEE International Conference on Multimedia and Expo (ICME), 2021-2025
+* IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2022-2025
 * International Conference on Computer Animation and Social Agents (CASA), 2022-2023
+* IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023-2025
 
 ### Journal Reviewer
 
@@ -41,9 +42,13 @@ nav_order: 6
 * Committee of Multimedia, CSIG（中国图象图形学学会）
 * Committee of Intelligent Healthcare, CAAI（中国人工智能学会）
 * Committee of Youth Working, CAAI（中国人工智能学会）
+* Member IEEE
 
 ## Hornors
 
+* 1st Award for Scientific and Technological Advancement, China Gold Association (2024)
+* 2nd Award for Scientific and Technological Advancement, Chinese Institute of Electronics (2024)
+* Best Paper Nomination Award of CHCI (2024)
 * 2nd Award for Scientific and Technological Advancement, Chinese Institute of Electronics (2023)
 * National Higher Education Teaching Achievement Award (2022)
 * 2nd Award for Scientific and Technological Advancement, Chinese Institute of Electronics (2022)
